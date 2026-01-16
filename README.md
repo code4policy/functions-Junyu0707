@@ -108,3 +108,8 @@ On Mac: `brew install npm`
 	```
 	git branch -D js-calculator
 	```
+## Running the calculator
+
+Run the script:
+```bash
+python3 calculator.py
